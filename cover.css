@@ -1,16 +1,25 @@
 .cover {
   width: 350px;
   height: 500px;
-  /* finish your styling of the cover div here! */
+  background-color: grey;
+  text-align: center;
 }
 #title {
-
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 20px 20px 20px;
+    padding-top: 40px;
+    opacity: 0.5;
 }
 
 #subtitle {
-
+    color: Lightblue;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: right;
+    margin: 40px 40px 40px 40px;
 }
 
 #cover_image {
-
+    width: 200px;
+    height: auto;
 }

@@ -1,24 +1,43 @@
 .page {
-  width:
-  height:
+  width:auto;
+  height:auto;
+  background-color: lightgrey;
 }
 
 #article_title {
-
+    font-family: Anton, Helvetica, sans-serif;
+    color: #461220;
+    letter-spacing: 5px;
+    margin: 0px 0px 0px 5px;
 }
 
 #intro {
+    font-family: Oswald, Helvetica, sans-serif;
+    padding-right: 340px;
+    color: #8C2F39;
+    margin: 0px 0px 0px 5px;
 
 }
 
 .question{
+    font-family: Railway, Helvetica, sans-serif;
+    padding-right: 340px;
+    color: #839788;
+    font-weight: bolder;
 
 }
 
 .answer{
+    font-family: Railway, Helvetica, sans-serif;
+    padding-right: 340px;
+    color: #839788;
+    font-weight: normal;
+    margin: -20px -20px 0px 0px;
 
 }
 
 #block_quote {
-
+    font-family: Oswald, Helvetica, sans-serif;
+    color: #8C2F39;
+    
 }
